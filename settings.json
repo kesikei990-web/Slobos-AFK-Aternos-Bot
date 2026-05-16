@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "ParthenonCollege",
     "password": "",
-    "type": "online"
+    "type": "false"
   },
   "server": {
     "ip": "partenonsinh.aternos.me",
