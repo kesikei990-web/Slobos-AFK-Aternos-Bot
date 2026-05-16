@@ -3,19 +3,19 @@
   "bot-account": {
     "username": "ParthenonCollege",
     "password": "",
-    "type": "true"
+    "type": "offline"
   },
   "server": {
     "ip": "partenonsinh.aternos.me",
     "port": 55294,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": -1,
-    "y": -1,
-    "z": -1
+    "x": 0,
+    "y": 100,
+    "z": 0
   },
   "utils": {
     "auto-auth": {
@@ -29,9 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
+        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
