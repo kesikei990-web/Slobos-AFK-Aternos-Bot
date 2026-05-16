@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "partenonsinh.aternos.me",
+    "ip": "partenonsinh.aternos.me:55294",
     "port": 55294,
     "version": "",
     "try-creative": false
