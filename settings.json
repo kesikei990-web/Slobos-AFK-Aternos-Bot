@@ -3,13 +3,13 @@
   "bot-account": {
     "username": "ParthenonCollege",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "partenonsinh.aternos.me:55294",
     "port": 55294,
-    "version": "",
-    "try-creative": false
+    "version": "26.1.2",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
